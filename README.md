@@ -3,10 +3,10 @@
 
 <p align="left"></p>
 
-<img align="left"  height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia" alt="tuguldurchimeg" />
+<img align="left"  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia" alt="tuguldurchimeg" />
 
-### Languages and Tools:
 
+<h5 align="left">Languages and Tools:</h5>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
