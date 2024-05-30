@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm tgldrchmg (tuugu)</h1>
-<h3 align="center">Dev</h3>
+<h1 align="center">Hi 👋, I'm tgldrchmg/tuugu</h1>
 
-- 🌱 I’m currently learning **...**
-
-- 🤝 I’m looking for help with **Backend development**
-
-- 📫 How to reach me **tgldrchmg0730@gmail.com**
 
 <p align="left"></p>
 
 <img align="left"  height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia" alt="tuguldurchimeg" />
-<img align="center"  height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuguldurchimeg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
