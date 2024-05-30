@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tgldrchmg/tuugu</h1>
+<h1 align="left">Hi 👋, I'm tuugu</h1>
 
 
 <p align="left">
