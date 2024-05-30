@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm tgldrchmg (tuugu)</h1>
-<h3 align="center">Dev</h3> - 🌱 I’m currently learning **Rails, Nextjs** - 🤝 I’m looking for help with **Backend development** - 📫 How to reach me **tgldrchmg0730@gmail.com** <h3 align="left">Connect with me</h3>
+<h3 align="center">Dev</h3> 
+🌱 I’m currently learning **Rails, Nextjs**
+🤝 I’m looking for help with **Backend development** 
+📫 How to reach me **tgldrchmg0730@gmail.com** 
+
+<h3 align="left">Connect with me</h3>
 <p align="left"></p>
 
 <img align="left"  height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia" alt="tuguldurchimeg" />
