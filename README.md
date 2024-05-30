@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<img align="left"  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia&count-private=true" alt="tuguldurchimeg" />
+<img align="left"  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&theme=radical&count-private=true" alt="tuguldurchimeg" />
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
