@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **tgldrchmg0730@gmail.com**
 
-<h3 align="left">Connect with me</h3>
 <p align="left"></p>
 
 <img align="left"  height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&langs_count=8&theme=algolia" alt="tuguldurchimeg" />
