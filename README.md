@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋, I'm tuugu</h1>
+
 
 
 <p align="left">
-<img align="left"  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&theme=radical&count_private=true" alt="tuguldurchimeg" />
-<img align="left"  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuguldurchimeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="left"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuguldurchimeg&layout=compact&theme=radical&count_private=true" alt="tuguldurchimeg" />
+<img align="left"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuguldurchimeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 
 <h5 align="left">Languages and Tools</h5>
